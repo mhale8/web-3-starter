@@ -1,3 +1,2 @@
 // Scripts
-
-console.log('Hello Humans!');
+console.log('Hello World!');
